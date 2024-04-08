@@ -1,8 +1,3 @@
-/*
-write program which uses user defined funtion, 
-it take a number from user and also takes the power 
-of number and then shows output
-*/
 #include<stdio.h>
 void power(int number, int power);
 int main()
